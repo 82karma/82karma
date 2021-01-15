@@ -1,0 +1,14 @@
+body{
+	font-family:Segoe Script;
+	font-size:20px ;
+	background-color:#9E5F63;
+}
+header, footer{
+	text-align:center;
+	margin:10px;
+}
+img{
+	width:350px;
+	border-radius:10%;
+	box-shadow:0px 0px 35px -10px rgba(0,0,0,0.75);
+}
